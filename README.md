@@ -33,8 +33,11 @@ The dataset included detailed track-level data such as timestamps, platforms use
 
 
 ## DashBoard
-![Screenshot 2025-05-07 234337](https://drive.google.com/file/d/1wDCekKjH8yOy3ut2CpGUcm5zAhgdLbFV/view?usp=sharing)
-![Screenshot 2025-05-07 234350](https://github.com/user-attachments/assets/0f9f7ef2-2640-4389-882e-5dc17d067490)
+![Spotify Dashboard-images-0](https://github.com/user-attachments/assets/c5befb4f-8976-46d0-871a-d003e2c9e21c)
+![image](https://github.com/user-attachments/assets/651a3688-e022-49bb-a463-bf9a30dc09a0)
+![Spotify Dashboard-images-2](https://github.com/user-attachments/assets/0a910337-caca-4221-8ab2-8efec1020ff3)
+
+
 
 ##  Project Insights
 - Listeners showed the highest engagement in the most recent year, indicating platform growth.
