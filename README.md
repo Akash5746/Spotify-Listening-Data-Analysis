@@ -17,7 +17,7 @@ The dataset included detailed track-level data such as timestamps, platforms use
 - What are the peak hours for user listening activity?
 = How does listening time relate to track frequency (engagement quadrant analysis)?
 - How do users interact with shuffle mode and track skipping?
-- Dashboard Interaction <a href="https://github.com/Akash5746/Sales-and-Profit-Analysis-Dashboard/blob/main/Main_Dashboard.png">View Dashboard 1 </a> <a href="https://github.com/Akash5746/Sales-and-Profit-Analysis-Dashboard/blob/main/Dashboard_2.png">View Dashboard 2</a>
+- Dashboard Interaction <a href="https://drive.google.com/file/d/1wDCekKjH8yOy3ut2CpGUcm5zAhgdLbFV/view?usp=sharing">View Dashboard 1 </a> <a href="https://github.com/Akash5746/Sales-and-Profit-Analysis-Dashboard/blob/main/Dashboard_2.png">View Dashboard 2</a>
 
 
 
@@ -33,7 +33,7 @@ The dataset included detailed track-level data such as timestamps, platforms use
 
 
 ## DashBoard
-![Screenshot 2025-05-07 234337](https://github.com/user-attachments/assets/a15f3ab3-cde6-4ed3-b780-5eacf5cc5968)
+![Screenshot 2025-05-07 234337](https://drive.google.com/file/d/1wDCekKjH8yOy3ut2CpGUcm5zAhgdLbFV/view?usp=sharing)
 ![Screenshot 2025-05-07 234350](https://github.com/user-attachments/assets/0f9f7ef2-2640-4389-882e-5dc17d067490)
 
 ##  Project Insights
